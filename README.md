@@ -1,4 +1,4 @@
-# GEO POLITICS — INF4001 Entrance Exam Game
+# GEO POLITICS
 
 A professional full-stack Risk-style single-player geopolitics game built with React, Express and MongoDB.
 
