@@ -39,17 +39,6 @@ npm install
 npm run dev
 ```
 
-Frontend: http://localhost:5173
-Backend: http://localhost:5001
-
-## Environment
-Backend `.env`:
-```env
-MONGO_URL=mongodb+srv://USERNAME:PASSWORD@CLUSTER.mongodb.net/geopolitics
-JWT_SECRET=change_this_secret
-PORT=5001
-```
-
 ## Game rules
 - Ten countries are selected randomly.
 - Soldiers are calculated from population.
